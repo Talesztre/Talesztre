@@ -37,3 +37,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Talesztre/Talesztre/output/snake.svg" alt="Snake animation" />
+
+###
